@@ -37,7 +37,7 @@ def jogar_forwhile():
     else:
         print("você digitou uma resposta inválida! Reinicie o programa caso queira tentar novamente.")
 
-
+jogar_forwhile()
 
 
 
